@@ -1,3 +1,4 @@
-lib/
-export/export.sh
+/lib
+resources/export.sh
+*.jks
 *.out
