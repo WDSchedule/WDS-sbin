@@ -1,3 +1,3 @@
 #!/bin/bash
-source ./env/export.sh
+source ./env/env.sh
 nohup java -jar ./lib/$1 &
