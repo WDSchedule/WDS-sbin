@@ -1,4 +1,4 @@
 /lib
-resources/export.sh
+/env
 *.jks
 *.out
